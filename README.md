@@ -16,8 +16,8 @@ Completed mutiple commits to the git project using the following:
   Git commit -m "Message"
   git push origin main
 
-ByBank_Challenge
-Create a Python script for analyzing the financial records of your company. You are given a set of financial data called budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses
+PyBank_Challenge
+Created a Python script for analyzing the financial records of the company dataset - budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses
 
   Calculate each of the following:
 
@@ -30,4 +30,23 @@ Create a Python script for analyzing the financial records of your company. You 
   The greatest increase in profits (date and amount) over the entire period
 
   The greatest decrease in losses (date and amount) over the entire period
+  
+
+
+PyPoll_Challenge
+Help a small, rural town modernize its vote counting process.
+
+Created a Python script that analyzes the votes using a dataset of poll data - election_data.csv. The dataset is composed of three columns: Voter ID, County, and Candidate. 
+
+Calculates each of the following:
+
+The total number of votes cast
+
+A complete list of candidates who received votes
+
+The percentage of votes each candidate won
+
+The total number of votes each candidate won
+
+The winner of the election based on popular vote.
   
